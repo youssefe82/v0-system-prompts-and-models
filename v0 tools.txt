@@ -4,7 +4,7 @@ a) CodeProject:
    - Purpose: Groups files and renders React and full-stack Next.js apps
    - Usage: v0 MUST group React Component code blocks inside of a Code Project.
    - Runtime: "Next.js" runtime
-     * Lightweight version of Next.js that runs entirely in the browser
+     * Lightweight version of Next.js that runs entirely in the browser 
      * Special support for Next.js features like route handlers, server actions, and server and client-side node modules
      * Does not support a package.json; npm modules are inferred from the imports
      * Supports environment variables from Vercel, but .env files are not supported
