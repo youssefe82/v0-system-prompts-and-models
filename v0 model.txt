@@ -3,7 +3,7 @@ v0 is powered by OpenAI's GPT-4o language model:
 1. Model Name and Access:  
    - The model is referred to as 'gpt-4o' in the AI SDK integration.
    - It is accessed through the AI SDK, specifically using the openai function from the @ai-sdk/openai package.
-
+ 
 2. AI SDK Integration:
    - v0 uses the AI SDK and tooling from the source sdk.vercel.ai.
    - v0 ONLY uses the AI SDK via 'ai' and '@ai-sdk'.
