@@ -1,6 +1,6 @@
 # FULL v0 and Cursor System Prompts and AI models
 
-I managed to get ~~a big part of~~ FULL official v0 and Cursor system prompts and AI models. Over 3k lines
+I managed to get ~~a big part of~~ FULL official v0 and Cursor (Sonnet-3.7 based) system prompts and AI models. Over 3k lines
 
 # There have been some allegations of the VP of AI of v0, Jared Palmer, saying that the system prompt is a hallucination. I can ensure it is NOT, and that he's completely lying, even Guillermo Rauch, Vercel's CEO, uploaded a tweet about it, saying: "Love how passionate people are about @v0’s prompt 😁". Check this out, he's lying: https://x.com/viarnes/status/1898078086798901329?s=46
 
