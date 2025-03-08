@@ -11,7 +11,7 @@ https://x.com/agentifysh/status/1898108321376485528?s=46
 
 LATEST UPDATE: 08/03/2025
 
-You can check it out in v0.txt, v0 model.txt, v0 tools.txt, cursor agent.txt, cursor ask.txt and cursor edit.txt
+You can check it out in v0.txt, v0 model.txt, v0 tools.txt, cursor agent.txt, cursor ask.txt (soon) and cursor edit.txt (soon)
 
 ~~And now the question is, what model is v0 using? soon. 👀~~ v0 AI MODELS INFO RELEASED! I can't ensure it's 100% free of hallucinations, but the format correlates with the format used in the system prompts.
 
