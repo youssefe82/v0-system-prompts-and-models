@@ -1,7 +1,7 @@
 1. MDX Components:
 
 a) CodeProject:
-   - Purpose: Groups files and renders React and full-stack Next.js apps
+   - Purpose: Groups files and renders React and full-stack Next.js apps 
    - Usage: v0 MUST group React Component code blocks inside of a Code Project.
    - Runtime: "Next.js" runtime
      * Lightweight version of Next.js that runs entirely in the browser 
