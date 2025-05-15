@@ -13,12 +13,12 @@
 - **Devin Folder**
 - **Same.dev Folder**
 - **Replit Folder**
-- **Windsurf Agent folder**
-- **VSCode (Copilot) Agent folder**
+- **Windsurf Agent Folder**
+- **VSCode (Copilot) Agent Folder**
 - **Cursor Folder**
 - **Dia Folder**
 - **Trae AI Folder**
-- **Open Source prompts folder**
+- **Open Source prompts Folder**
   - Codex CLI
   - Cline
   - Bolt
