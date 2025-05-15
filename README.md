@@ -41,7 +41,7 @@ Check out **[ZeroLeaks](https://0leaks.vercel.app)**, a service designed to help
 🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
 Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
 
-🆕 **LATEST UPDATE:** 10/06/2024 
+🆕 **LATEST UPDATE:** 15/05/2025 
 
 ## 📊 **Star History**
 
