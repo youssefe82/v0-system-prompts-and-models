@@ -31,7 +31,7 @@
 🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
 Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
 
-🆕 **LATEST UPDATE:** 06/06/2025 
+🆕 **LATEST UPDATE:** 16/06/2025 
 
 ## ❤️ Support the Project
 
