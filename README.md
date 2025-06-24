@@ -3,7 +3,7 @@
 (All the published system prompts are extracted by myself, except the already open sourced ones, Manus, Dia and Cluely, which are contributions)
 
 
-📜 Over **7000+ lines** of insights into their structure and functionality.  
+📜 Over **7500+ lines** of insights into their structure and functionality.  
 
 [![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
 
