@@ -10,7 +10,7 @@
 
 ## 📑 Table of Contents
 
-1. [Available Files](#available-files)  
+1. [Available Files](#-available-files)  
 2. [Roadmap & Feedback](#roadmap--feedback)  
 3. [Support the Project](#support-the-project)  
 4. [Connect With Me](#connect-with-me)  
