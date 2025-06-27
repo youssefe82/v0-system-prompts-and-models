@@ -45,6 +45,7 @@ You can show your support via:
 *   **Cryptocurrency:**
     *   **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`
     *   **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`
+    *   **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
 
 Thank you for your support! 🙏
 
