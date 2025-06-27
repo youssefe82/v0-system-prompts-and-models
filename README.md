@@ -11,11 +11,11 @@
 ## 📑 Table of Contents
 
 1. [Available Files](#-available-files)  
-2. [Roadmap & Feedback](#roadmap--feedback)  
-3. [Support the Project](#support-the-project)  
-4. [Connect With Me](#connect-with-me)  
-5. [Security Notice for AI Startups](#security-notice-for-ai-startups)  
-6. [Star History](#star-history)  
+2. [Roadmap & Feedback](#-roadmap--feedback)  
+3. [Support the Project](#%EF%B8%8F-support-the-project)  
+4. [Connect With Me](#-connect-with-me)  
+5. [Security Notice for AI Startups](#%EF%B8%8F-security-notice-for-ai-startups)  
+6. [Star History](#-star-history) 
 
 ---
 
