@@ -19,7 +19,7 @@
 - **Cursor Folder**
 - **Dia Folder**
 - **Trae AI Folder**
-- **Cluely AI Folder**
+- **Cluely Folder**
 - **Open Source prompts Folder**
   - Codex CLI
   - Cline
