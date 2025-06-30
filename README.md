@@ -42,15 +42,6 @@
 
 ---
 
-## 🛠 Roadmap & Feedback
-
-> **Note:** We no longer use GitHub issues for roadmap and feedback.  
-> Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
-
-> **Latest Update:** 27/06/2025
-
----
-
 ## ❤️ Support the Project
 
 If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
@@ -64,6 +55,15 @@ You can show your support via:
   - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
 
 🙏 Thank you for your support!
+
+---
+
+## 🛠 Roadmap & Feedback
+
+> **Note:** We no longer use GitHub issues for roadmap and feedback.  
+> Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
+
+> **Latest Update:** 30/06/2025
 
 ---
 
