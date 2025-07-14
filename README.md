@@ -8,14 +8,30 @@
 
 ---
 
+## ❤️ Support the Project
+
+If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
+
+You can show your support via:
+
+- **PayPal:** `lucknitelol@proton.me`  
+- **Cryptocurrency:**  
+  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
+  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
+  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
+
+🙏 Thank you for your support!
+
+
+---
+
 ## 📑 Table of Contents
 
 1. [Available Files](#-available-files)  
 2. [Roadmap & Feedback](#-roadmap--feedback)  
-3. [Support the Project](#%EF%B8%8F-support-the-project)  
-4. [Connect With Me](#-connect-with-me)  
-5. [Security Notice for AI Startups](#%EF%B8%8F-security-notice-for-ai-startups)  
-6. [Star History](#-star-history) 
+3. [Connect With Me](#-connect-with-me)  
+4. [Security Notice for AI Startups](#%EF%B8%8F-security-notice-for-ai-startups)  
+5. [Star History](#-star-history) 
 
 ---
 
@@ -40,22 +56,6 @@
   - Cline  
   - Bolt  
   - RooCode  
-
----
-
-## ❤️ Support the Project
-
-If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
-
-You can show your support via:
-
-- **PayPal:** `lucknitelol@proton.me`  
-- **Cryptocurrency:**  
-  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
-  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
-  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
-
-🙏 Thank you for your support!
 
 ---
 
