@@ -62,17 +62,15 @@ You can show your support via:
 
 ## 🛠 Roadmap & Feedback
 
-> **Note:** We no longer use GitHub issues for roadmap and feedback.  
-> Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
+> Open an issue.
 
-> **Latest Update:** 04/07/2025
+> **Latest Update:** 16/07/2025
 
 ---
 
 ## 🔗 Connect With Me
 
 - **X:** [NotLucknite](https://x.com/NotLucknite)  
-- **Discord:** `x1xh`
 
 ---
 
