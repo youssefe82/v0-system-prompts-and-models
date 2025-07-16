@@ -48,7 +48,8 @@ You can show your support via:
 - **VSCode (Copilot) Agent Folder**  
 - **Cursor Folder**  
 - **Dia Folder**  
-- **Trae AI Folder**  
+- **Trae AI Folder**
+- **Perplexity Folder**  
 - **Cluely Folder**
 - **Xcode Folder**  
 - **Open Source prompts Folder**  
