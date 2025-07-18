@@ -72,7 +72,7 @@ You can show your support via:
 ## 🔗 Connect With Me
 
 - **X:** [NotLucknite](https://x.com/NotLucknite)
-- ++Discord**: `x1xh`
+- **Discord**: `x1xh`
 
 ---
 
