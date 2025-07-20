@@ -1,4 +1,4 @@
-# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI, Cluely, Perplexity, Xcode & Spawn (And other Open Sourced) System Prompts, Tools & AI Models**  
+# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI, Cluely, Perplexity, Xcode, Spawn & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models**  
 
 <a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
@@ -52,7 +52,8 @@ You can show your support via:
 - **Trae AI Folder**
 - **Perplexity Folder**  
 - **Cluely Folder**
-- **Xcode Folder**  
+- **Xcode Folder**
+- **Orchids.app Folder**
 - **Open Source prompts Folder**  
   - Codex CLI  
   - Cline  
@@ -65,7 +66,7 @@ You can show your support via:
 
 > Open an issue.
 
-> **Latest Update:** 16/07/2025
+> **Latest Update:** 21/07/2025
 
 ---
 
