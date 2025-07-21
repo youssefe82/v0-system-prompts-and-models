@@ -1,0 +1,258 @@
+{
+  "functions": {
+    "browser_preview": {
+      "description": "Spin up a browser preview for a web server. This allows the USER to interact with the web server normally as well as provide console logs and other information from the web server to Cascade. Note that this tool call will not automatically open the browser preview for the USER, they must click one of the provided buttons to open it in the browser.",
+      "parameters": {
+        "Name": "string",
+        "Url": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "capture_browser_console_logs": {
+      "description": "Retrieve the console logs of a browser page that is already open in Windsurf Browser.",
+      "parameters": {
+        "PageId": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "capture_browser_screenshot": {
+      "description": "Capture a screenshot of the current viewport of a browser page that is already open in Windsurf Browser.",
+      "parameters": {
+        "PageId": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "check_deploy_status": {
+      "description": "Check the status of the deployment using its windsurf_deployment_id for a web application and determine if the application build has succeeded and whether it has been claimed. Do not run this unless asked by the user. It must only be run after a deploy_web_app tool call.",
+      "parameters": {
+        "WindsurfDeploymentId": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "codebase_search": {
+      "description": "Find snippets of code from the codebase most relevant to the search query. This performs best when the search query is more precise and relating to the function or purpose of code. Results will be poor if asking a very broad question, such as asking about the general 'framework' or 'implementation' of a large component or system. Will only show the full code contents of the top items, and they may also be truncated. For other items it will only show the docstring and signature. Use view_code_item with the same path and node name to view the full code contents for any item. Note that if you try to search over more than 500 files, the quality of the search results will be substantially worse. Try to only search over a large number of files if it is really necessary.",
+      "parameters": {
+        "Query": "string",
+        "TargetDirectories": "string[]",
+        "toolSummary?": "string"
+      }
+    },
+    "command_status": {
+      "description": "Get the status of a previously executed terminal command by its ID. Returns the current status (running, done), output lines as specified by output priority, and any error if present. Do not try to check the status of any IDs other than Background command IDs.",
+      "parameters": {
+        "CommandId": "string",
+        "OutputCharacterCount": "integer",
+        "WaitDurationSeconds": "integer",
+        "toolSummary?": "string"
+      }
+    },
+    "create_memory": {
+      "description": "Save important context relevant to the USER and their task to a memory database.",
+      "parameters": {
+        "Action": "\"create\" | \"update\" | \"delete\"",
+        "Content": "string",
+        "CorpusNames": "string[]",
+        "Id": "string",
+        "Tags": "string[]",
+        "Title": "string",
+        "UserTriggered": "boolean",
+        "toolSummary?": "string"
+      }
+    },
+    "deploy_web_app": {
+      "description": "Deploy a JavaScript web application to a deployment provider like Netlify. Site does not need to be built. Only the source files are required. Make sure to run the read_deployment_config tool first and that all missing files are created before attempting to deploy. If you are deploying to an existing site, use the project_id to identify the site. If you are deploying a new site, leave the project_id empty.",
+      "parameters": {
+        "Framework": "\"eleventy\" | \"angular\" | \"astro\" | \"create-react-app\" | \"gatsby\" | \"gridsome\" | \"grunt\" | \"hexo\" | \"hugo\" | \"hydrogen\" | \"jekyll\" | \"middleman\" | \"mkdocs\" | \"nextjs\" | \"nuxtjs\" | \"remix\" | \"sveltekit\" | \"svelte\"",
+        "ProjectId": "string",
+        "ProjectPath": "string",
+        "Subdomain": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "find_by_name": {
+      "description": "Search for files and subdirectories within a specified directory using fd.",
+      "parameters": {
+        "Excludes": "string[]",
+        "Extensions": "string[]",
+        "FullPath": "boolean",
+        "MaxDepth": "integer",
+        "Pattern": "string",
+        "SearchDirectory": "string",
+        "Type": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "get_dom_tree": {
+      "description": "Get the DOM tree of an open page in the Windsurf Browser.",
+      "parameters": {
+        "PageId": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "grep_search": {
+      "description": "Use ripgrep to find exact pattern matches within files or directories.",
+      "parameters": {
+        "CaseInsensitive": "boolean",
+        "Includes": "string[]",
+        "IsRegex": "boolean",
+        "MatchPerLine": "boolean",
+        "Query": "string",
+        "SearchPath": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "list_browser_pages": {
+      "description": "List all open pages in Windsurf Browser and their metadata (page_id, url, title, viewport size, etc.).",
+      "parameters": {
+        "toolSummary?": "string"
+      }
+    },
+    "list_dir": {
+      "description": "List the contents of a directory. Directory path must be an absolute path to a directory that exists. For each child in the directory, output will have: relative path to the directory, whether it is a directory or file, size in bytes if file, and number of children (recursive) if directory.",
+      "parameters": {
+        "DirectoryPath": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "list_resources": {
+      "description": "Lists the available resources from an MCP server.",
+      "parameters": {
+        "ServerName": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "open_browser_url": {
+      "description": "Open a URL in Windsurf Browser to view the page contents of a URL in a rendered format.",
+      "parameters": {
+        "Url": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "read_browser_page": {
+      "description": "Read an open page in the Windsurf Browser.",
+      "parameters": {
+        "PageId": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "read_deployment_config": {
+      "description": "Read the deployment configuration for a web application and determine if the application is ready to be deployed. Should only be used in preparation for the deploy_web_app tool.",
+      "parameters": {
+        "ProjectPath": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "read_resource": {
+      "description": "Retrieves a specified resource's contents.",
+      "parameters": {
+        "ServerName": "string",
+        "Uri": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "read_terminal": {
+      "description": "Reads the contents of a terminal given its process ID.",
+      "parameters": {
+        "Name": "string",
+        "ProcessID": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "read_url_content": {
+      "description": "Read content from a URL. URL must be an HTTP or HTTPS URL that points to a valid internet resource accessible via web browser.",
+      "parameters": {
+        "Url": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "replace_file_content": {
+      "description": "Use this tool to edit an existing file.",
+      "parameters": {
+        "CodeMarkdownLanguage": "string",
+        "Instruction": "string",
+        "ReplacementChunks": "Array<{AllowMultiple: boolean, ReplacementContent: string, TargetContent: string}>",
+        "TargetFile": "string",
+        "TargetLintErrorIds?": "string[]",
+        "toolSummary?": "string"
+      }
+    },
+    "run_command": {
+      "description": "PROPOSE a command to run on behalf of the user. Operating System: windows. Shell: powershell.",
+      "parameters": {
+        "Blocking?": "boolean",
+        "CommandLine": "string",
+        "Cwd?": "string",
+        "SafeToAutoRun?": "boolean",
+        "WaitMsBeforeAsync?": "integer",
+        "toolSummary?": "string"
+      }
+    },
+    "search_web": {
+      "description": "Performs a web search to get a list of relevant web documents for the given query and optional domain filter.",
+      "parameters": {
+        "domain": "string",
+        "query": "string",
+        "toolSummary?": "string"
+      }
+    },
+    "suggested_responses": {
+      "description": "If you are calling no other tools and are asking a question to the user, use this tool to supply a small number of possible suggested answers to your question.",
+      "parameters": {
+        "Suggestions": "string[]",
+        "toolSummary?": "string"
+      }
+    },
+    "trajectory_search": {
+      "description": "Semantic search or retrieve trajectory. Trajectories are one of conversations. Returns chunks from the trajectory, scored, sorted, and filtered by relevance. Maximum number of chunks returned is 50. Call this tool when the user @mentions a @conversation. Do NOT call this tool with SearchType: 'user'. IGNORE @activity mentions.",
+      "parameters": {
+        "ID": "string",
+        "Query": "string",
+        "SearchType": "\"cascade\" | \"user\"",
+        "toolSummary?": "string"
+      }
+    },
+    "view_code_item": {
+      "description": "View the content of up to 5 code item nodes in a file, each as a class or a function. You must use fully qualified code item names, such as those return by the grep_search or other tools. For example, if you have a class called `Foo` and you want to view the function definition `bar` in the `Foo` class, you would use `Foo.bar` as the NodeName. Do not request to view a symbol if the contents have been previously shown by the codebase_search tool. If the symbol is not found in a file, the tool will return an empty string instead.",
+      "parameters": {
+        "File?": "string",
+        "NodePaths": "string[]",
+        "toolSummary?": "string"
+      }
+    },
+    "view_content_chunk": {
+      "description": "View a specific chunk of document content using its DocumentId and chunk position. The DocumentId must have already been read by the read_url_content or read_knowledge_base_item tool before this can be used on that particular DocumentId.",
+      "parameters": {
+        "document_id": "string",
+        "position": "integer",
+        "toolSummary?": "string"
+      }
+    },
+    "view_file": {
+      "description": "View the contents of a file. The lines of the file are 1-indexed, and the output of this tool call will be the file contents from StartLine to EndLine (inclusive), together with a summary of the lines outside of StartLine and EndLine. Note that this call can view at most 400 lines at a time.",
+      "parameters": {
+        "AbsolutePath": "string",
+        "EndLine": "integer",
+        "IncludeSummaryOfOtherLines": "boolean",
+        "StartLine": "integer",
+        "toolSummary?": "string"
+      }
+    },
+    "write_to_file": {
+      "description": "Use this tool to create new files. The file and any parent directories will be created for you if they do not already exist.",
+      "parameters": {
+        "CodeContent": "string",
+        "EmptyFile": "boolean",
+        "TargetFile": "string",
+        "toolSummary?": "string"
+      }
+    }
+  },
+  "multi_tool_use": {
+    "parallel": {
+      "description": "Use this function to run multiple tools simultaneously, but only if they can operate in parallel. Do this even if the prompt suggests using the tools sequentially.",
+      "parameters": {
+        "tool_uses": "Array<{recipient_name: string, parameters: object}>"
+      }
+    }
+  }
+}
