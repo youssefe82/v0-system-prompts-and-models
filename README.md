@@ -9,7 +9,7 @@
 
 Stop **prototyping**. Start **shipping**.
 
-While other tools get stuck on prompts, spawn.co uses cutting-edge AI to build and deploy complete games. I've spawned 4 complete game variants in under 20 minutes. Not prototypes - actual playable games with save systems, multiplayer, monetization ready to ship.
+While other tools get stuck on prompts, [spawn.co](https://www.spawn.co/) uses cutting-edge AI to build and deploy complete games. I've spawned 4 complete game variants in under 20 minutes. Not prototypes - actual playable games with save systems, multiplayer, monetization ready to ship.
 
 It’s not marketing fluff, it’s just a better way to build.
 
