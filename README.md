@@ -2,19 +2,17 @@
 
 
 # Spawn
+<a href="https://spawn.co" target="_blank" rel="noopener noreferrer">
+  <img width="200" height="200" alt="Spawn.co Logo" src="https://github.com/user-attachments/assets/669cef9b-eec1-4add-9a02-fb7e12602126" align="right" />
+</a>
+
 Stop **prototyping**. Start **shipping**.
 
 While other tools get stuck on prompts, spawn.co uses cutting-edge AI to build and deploy complete games. I've spawned 4 complete game variants in under 20 minutes. Not prototypes - actual playable games with save systems, multiplayer, monetization ready to ship.
 
 It’s not marketing fluff, it’s just a better way to build.
 
-Build. Ship. Done.
-
-<div align="right">
-  <a href="https://spawn.co" target="_blank" rel="noopener noreferrer">
-    <img width="200" height="200" alt="Spawn.co Logo" src="https://github.com/user-attachments/assets/669cef9b-eec1-4add-9a02-fb7e12602126" />
-  </a>
-</div>
+**Build. Ship. Done.**
 
 ---
 
