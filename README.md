@@ -58,7 +58,8 @@ You can show your support via:
   - Codex CLI  
   - Cline  
   - Bolt  
-  - RooCode  
+  - RooCode
+  - Lumo
 
 ---
 
@@ -66,7 +67,7 @@ You can show your support via:
 
 > Open an issue.
 
-> **Latest Update:** 21/07/2025
+> **Latest Update:** 23/07/2025
 
 ---
 
