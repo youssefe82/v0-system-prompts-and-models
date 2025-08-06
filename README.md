@@ -17,7 +17,7 @@ It’s not marketing fluff, it’s just a better way to build.
 
 ---
 <a href="https://discord.gg/NwzrWErdMU" target="_blank">
-  <img src="https://img.shields.io/discord/1240288268476575764?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
+  <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
 </a>
 
 > **Join the Conversation:** New system instructions are released on Discord **before** they appear in this repository. Get early access and discuss them in real time.
