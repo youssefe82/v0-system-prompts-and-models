@@ -82,7 +82,7 @@ You can show your support via:
 - [**Orchids.app Folder**](./Orchids.app/)
 - [**Junie Folder**](./Junie/)
 - [**Kiro**](./Kiro/)
-- [**Wrap.dev**](./Warp.dev/)
+- [**Warp.dev**](./Warp.dev/)
 - [**Z.ai Code**](./Z.ai%20Code/)
 - [**Open Source prompts Folder**](./Open%20Source%20prompts/)
   - [Codex CLI](./Open%20Source%20prompts/Codex%20CLI/)
